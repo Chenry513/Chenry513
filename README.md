@@ -15,8 +15,16 @@
  
  🌱 I’m currently learning about **Docker, Supabase, AWS.**
 
+<<<<<<< HEAD
 </div>
 
+=======
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
+>>>>>>> parent of 9ccf298 (reduce Ko-fi button size)
  
 <div align="center"> 
   <a href="mailto:henryc813@gmailcom">
@@ -63,10 +71,16 @@
 
 
 <br/><br/>
-
 <hr/>
 
+<<<<<<< HEAD
 <br/>
 
+=======
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='72' style='border:0px;height:72px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+>>>>>>> parent of 9ccf298 (reduce Ko-fi button size)
 
 <br/>
+
