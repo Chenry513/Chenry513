@@ -3,8 +3,9 @@ name: Generate Snake
 
 # Remove the schedule and push triggers to prevent automatic updates.
 on:
-  # This command allows you to run the Action manually from the Actions tab.
-  workflow_dispatch:
+  schedule:
+      # every 12 hours
+    - cron: "0 */12 * * *"
 
 # The sequence of runs in this workflow:
 jobs:
