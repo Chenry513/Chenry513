@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **Professor Nicholas Vincent** at SFU on the [**Data Levers**](https://www.datalevers.org/) project.
+ 
  
  🌱 I’m currently learning about **Docker, Supabase, AWS.**
  
