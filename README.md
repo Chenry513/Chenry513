@@ -13,7 +13,6 @@
  
  
  
- 🌱 I’m currently learning about **Docker, Supabase, AWS.**
  
 <div align="center"> 
   <a href="mailto:henryc813@gmailcom">
