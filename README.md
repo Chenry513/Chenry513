@@ -5,7 +5,7 @@ I enjoy applying software engineering and machine learning to real-world problem
 </p>
 
 <p align="center">
-🎓 B.Sc. in Computer Science from Simon Fraser University  
+🎓 B.Sc. in Computer Science from Simon Fraser University <br>
 📚 Currently pursuing an M.Sc. in Applied Computing at BCIT
 </p>
 
@@ -19,10 +19,18 @@ I like seeing how code moves beyond the screen and interacts with real systems, 
 
 Outside of coding, I’m usually hanging out with my cat Mochi (my profile picture 🐱) or snowboarding.
 
-Feel free to connect with me on LinkedIn or shoot me an email if you’d like to chat.
+Feel free to connect with me if you’d like to chat.
 
-🔗 LinkedIn: https://www.linkedin.com/in/henry-chen-832a89386/  
-📫 Email: hchen285@my.bcit.ca
+<p align="center">
+  <a href="https://www.linkedin.com/in/henry-chen-832a89386/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>
+</p>
+
+<p align="center">
+📫 hchen285@my.bcit.ca
+</p>
+
 
 
 
