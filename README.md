@@ -1,13 +1,10 @@
-<h1 align="center">Hey, I’m Henry 👋</h1>
+# Hey, I’m Henry 👋
 
-<p align="center">
 I enjoy applying software engineering and machine learning to real-world problems.
-</p>
 
-<p align="center">
-🎓 B.Sc. in Computer Science from Simon Fraser University <br>
-📚 Currently pursuing an M.Sc. in Applied Computing at BCIT
-</p>
+I completed my B.Sc. in Computer Science at Simon Fraser University and am currently pursuing my M.Sc. in Applied Computing at BCIT. If you’d like to learn more about my experience, feel free to take a look at my resume:
+
+📄 [Resume](ADD_LINK_HERE)
 
 ---
 
@@ -17,19 +14,13 @@ I like seeing how code moves beyond the screen and interacts with real systems, 
 
 ---
 
-Outside of coding, I’m usually hanging out with my cat Mochi (my profile picture 🐱) or snowboarding.
+Outside of coding, I’m usually hanging out with my cat Mochi (my profile picture 🐱), at the gym, or snowboarding.
 
-Feel free to connect with me if you’d like to chat.
+Feel free to connect if you’d like to chat, find my work interesting, or are just here for my cat.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henry-chen-832a89386/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-  </a>
-</p>
-
-<p align="center">
+🔗 [LinkedIn](https://www.linkedin.com/in/henry-chen-832a89386/)  
 📫 hchen285@my.bcit.ca
-</p>
+
 
 
 
