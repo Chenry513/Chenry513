@@ -4,7 +4,7 @@ I enjoy applying software engineering and machine learning to real-world problem
 
 I completed my B.Sc. in Computer Science at Simon Fraser University and am currently pursuing my M.Sc. in Applied Computing at BCIT. If you’d like to learn more about my experience, feel free to take a look at my resume:
 
-📄 [Resume](ADD_LINK_HERE)
+📄 [Resume](MasterHenryChenBCIT_Resume-1.pdf)
 
 ---
 
