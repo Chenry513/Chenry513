@@ -1,10 +1,10 @@
-# Hey, I’m Henry
+# Hey, I’m Henry 👋
 
 I enjoy applying software engineering and machine learning to real-world problems.
 
 I completed my B.Sc. in Computing Science at Simon Fraser University and am currently pursuing my M.Sc. in Applied Computing at BCIT. If you’d like to learn more about my experience, feel free to take a look at my resume:
 
-Resume: https://raw.githubusercontent.com/Chenry513/Chenry513/main/tech_resume.pdf
+📄 Resume: https://raw.githubusercontent.com/Chenry513/Chenry513/main/tech_resume.pdf
 
 ---
 
@@ -24,10 +24,8 @@ Recent work has included:
 
 Outside of coding, I’m usually hanging out with my cat Mochi (my profile picture), at the gym, or snowboarding.
 
-LinkedIn: https://www.linkedin.com/in/henry-chen-832a89386/
+LinkedIn: https://www.linkedin.com/in/henry-chen-832a89386/  
 Email: hchen285@my.bcit.ca
-
-
 
 
 
